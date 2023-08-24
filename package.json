@@ -1,6 +1,6 @@
 {
   "name": "vue-out-of-the-box",
-  "version": "0.1.1",
+  "version": "0.1.12",
   "scripts": {
     "prepublishOnly":"npm run build",
     "serve": "vue-cli-service serve",
